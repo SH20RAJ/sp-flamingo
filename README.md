@@ -74,5 +74,16 @@ Here you have completed your Sopplayer-Flamingo Intgretion.
 ```
 
 <center>
-## Visit [GitHub](https://github.com/SH20RAJ/Sopplayer/tree/main/flamingo) View [Demo](https://sopplayer.sh20raj.repl.co/flamingo/)
+Visit [GitHub](https://github.com/SH20RAJ/Sopplayer/tree/main/flamingo) 
+ View [Demo](https://sopplayer.sh20raj.repl.co/flamingo/)
+
+See Articles :- 
+
+---
+
+https://codexdindia.blogspot.com/2021/02/sp-flamingo-sopplayer-skin-integration.html
+
+---
+
+https://dev.to/sh20raj/sp-flamingo-sopplayer-skin-integration-custom-video-player-4675/
 </center>
