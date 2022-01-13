@@ -1,4 +1,4 @@
-Documentation Video :- https://www.youtube.com/watch?v=DOxtPWfKWUY
+Documentation Video :- [https://www.youtube.com/watch?v=DOxtPWfKWUY](https://www.youtube.com/watch?v=DOxtPWfKWUY)
 
 Demo Website :- https://sopplayer.sh20raj.repl.co/flamingo
 
@@ -7,7 +7,7 @@ View on Repl.it :- https://replit.com/@SH20RAJ/SopPlayer#flamingo
 
 [GitHub](https://github.com/SH20RAJ/Sopplayer/tree/main/flamingo)
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mu0stgqfkzq1j2kc5qvb.png)
+<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mu0stgqfkzq1j2kc5qvb.png"/>
 </center>
 ### Steps to Import :- 
 
@@ -38,12 +38,12 @@ Here you have completed your Sopplayer-Flamingo Intgretion.
 <center>
 **Before Sopplayer**
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7zrk1s7wleea2v78vdd0.JPG)
+<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7zrk1s7wleea2v78vdd0.JPG" width="100%"/>
 
 **After Sopplayer**
 
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2488umn4p1gvxeh2v35b.PNG)
+<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2488umn4p1gvxeh2v35b.PNG"/>
 
 
 </center>
