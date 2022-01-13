@@ -31,7 +31,7 @@ Steps :-
 **HERE IS THE JAVASCRIPT CDN**
 ```
 <script src="https://cdn.jsdelivr.net/gh/SH20RAJ/Sopplayer/flamingo/sp-flamingo.min.js"></script>
-    <!--Here is the JavaScript Library-->
+<!--Here is the JavaScript Library-->
 ```
 
 Here you have completed your Sopplayer-Flamingo Intgretion. 
