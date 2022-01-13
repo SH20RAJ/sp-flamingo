@@ -1,6 +1,8 @@
 # SP-FLAMINGO SopPlayer Skin Integration
 
-Documentation Video :- [https://www.youtube.com/watch?v=DOxtPWfKWUY](https://www.youtube.com/watch?v=DOxtPWfKWUY)
+## Documentation Video :- [https://www.youtube.com/watch?v=DOxtPWfKWUY](https://www.youtube.com/watch?v=DOxtPWfKWUY)
+
+## Documentation :- https://dev.to/sh20raj/sp-flamingo-sopplayer-skin-integration-custom-video-player-4675
 
 Demo Website :- https://sopplayer.sh20raj.repl.co/flamingo
 
