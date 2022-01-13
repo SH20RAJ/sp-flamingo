@@ -74,5 +74,5 @@ Here you have completed your Sopplayer-Flamingo Intgretion.
 ```
 
 <center>
-## **Visit [GitHub](https://github.com/SH20RAJ/Sopplayer/tree/main/flamingo) View [Demo](https://sopplayer.sh20raj.repl.co/flamingo/)**
+## Visit [GitHub](https://github.com/SH20RAJ/Sopplayer/tree/main/flamingo) View [Demo](https://sopplayer.sh20raj.repl.co/flamingo/)
 </center>
